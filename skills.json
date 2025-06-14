@@ -1,0 +1,75 @@
+[
+    {
+        "name": "HTML5",
+        "icon": "https://skillicons.dev/icons?i=html"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://skillicons.dev/icons?i=css"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://skillicons.dev/icons?i=javascript"
+    },
+    {
+        "name": "Java",
+        "icon": "https://skillicons.dev/icons?i=java"
+    },
+    {
+        "name": "Python",
+        "icon": "https://skillicons.dev/icons?i=python"
+    },
+     {
+        "name": "C++",
+        "icon": "https://skillicons.dev/icons?i=cpp"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://skillicons.dev/icons?i=jquery"
+    },
+    {
+        "name": "TailwindCSS",
+        "icon": "https://skillicons.dev/icons?i=tailwindcss"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://skillicons.dev/icons?i=nodejs"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://skillicons.dev/icons?i=postman"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://skillicons.dev/icons?i=bootstrap"
+    },
+    {
+        "name": "Kotlin",
+        "icon": "https://skillicons.dev/icons?i=kotlin"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://skillicons.dev/icons?i=php"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://skillicons.dev/icons?i=mysql"
+    },
+    {
+        "name": "Vercel",
+        "icon": "https://skillicons.dev/icons?i=vercel"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://skillicons.dev/icons?i=aws"
+    },
+    {
+        "name": "Git",
+        "icon": "https://skillicons.dev/icons?i=git"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://skillicons.dev/icons?i=github"
+    },
+
+]
