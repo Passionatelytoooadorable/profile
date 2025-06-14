@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Digital Marketing Landing Page",
+    "desc": "A simple landing page for digital marketing for your company.",
+    "image": "digital",
+    "links": {
+      "view": "https://grow-business.vercel.app/",
+      "code": "https://github.com/Passionatelytoooadorable/Digital-Marketing-Landing-Page"
+    }
+  },
+  {
+    "name": "Pizza Fiesta Website",
+    "desc": "This is a fullstack food ordering app built with Node.js.",
+    "image": "pizza",
+    "links": {
+      "view": "https://pizza-fiesta.vercel.app/",
+      "code": "https://github.com/Passionatelytoooadorable/food-order"
+    }
+  },
+  {
+    "name": "Kingsukh Guest House",
+    "desc": "This website showcases the amenities, services, and rooms offered to visitors.",
+    "image": "house",
+    "links": {
+      "view": "https://guest-house-zeta.vercel.app/",
+      "code": "https://github.com/Passionatelytoooadorable/guest-house"
+    }
+  },
+  {
+    "name": "Shopping",
+    "desc": "Shopping is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. ",
+    "image": "shop",
+    "links": {
+      "view": "https://shopping-time.vercel.app/",
+      "code": "https://github.com/Passionatelytoooadorable/shopping"
+    }
+  },
+  {
+    "name": "Foodies",
+    "desc": "This project enables the end users to register online, read and select the food from e-menu card and order food online."
+    "image": "food",
+    "links": {
+      "view": "https://foodies-web-app.vercel.app/",
+      "code": "https://github.com/Passionatelytoooadorable/FoodiesWeb"
+    }
+  }
+  {
+    "name": "Youtube-Clone",
+    "desc": "A Youtube Clone build using tailwind.",
+    "image": "yt",
+    "links": {
+      "view": "https://clone-youtube-media.vercel.app/",
+      "code": "https://github.com/Passionatelytoooadorable/Youtube-Clone"
+    }
+  }
+]
