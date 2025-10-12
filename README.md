@@ -8,6 +8,8 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 ![jQuery](https://skillicons.dev/icons?i=jquery) 
 
 ## Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
+<img width="1901" height="814" alt="Screenshot 2025-10-12 091433" src="https://github.com/user-attachments/assets/5a156657-3012-436e-9cb3-697a3dca06ba" />
+
+
 
 ### Show some ❤️ by starring this awesome repository!
